@@ -1,16 +1,16 @@
-# 💫 About Me:
-Hi, I’m Naomi 👋
+# Hi, I’m Naomi 👋
 
 I’m a JavaScript developer with a BSc in Computing and hands-on experience building full-stack applications through the Northcoders software development bootcamp.
 
-Before transitioning fully into development, I worked in SaaS technical support roles, collaborating closely with developers and supporting real-world production systems and integrations. That background shapes how I write code today: with a focus on clarity, maintainability, and the people who rely on it.
+Before transitioning fully into development, I worked in SaaS technical support roles, collaborating closely with developers and supporting real-world production systems and integrations. 
+That background shapes how I write code today: with a focus on clarity, maintainability, and the people who rely on it.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=noemi-peterka&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=noemi-peterka&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noemi-peterka&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## What I’m working on
+## 💫 What I’m working on
 - Full-stack JavaScript projects (Node.js, APIs, relational databases)<br>Improving code quality through testing and refactoring
 - Strengthening core computer science and backend fundamentals
 
